@@ -5,7 +5,7 @@ lessThan(QT_VERSION, 4.6) {
 ORGNAME = "Florian_Hackenberger"
 APPNAME = qtikz
 APPEXENAME = qtikz
-APPVERSION = 0.11
+APPVERSION = 0.12b
 
 include(qmake/qtikzconfig.pri)
 include(qmake/qtikzdefaults.pri)
